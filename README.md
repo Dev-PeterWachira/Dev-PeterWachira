@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dev-PeterWachira
 - 👀 I’m interested in ...coding,soccer
-- 🌱 I’m currently learning ...css, JavaScript and php
+- 🌱 I’m currently learning ...css, JavaScript and Python
 - 💞️ I’m looking to collaborate on ...coding
 - 📫 How to reach me ... wmainap@gmail.com
 - 😄 Pronouns: ...
